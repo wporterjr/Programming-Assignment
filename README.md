@@ -2,7 +2,6 @@
 title: "README"
 author: "wporter"
 date: "May 19, 2014"
-output: pdf_document
 ---
 
 ## Getting and Cleaning Data Project
@@ -34,7 +33,7 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 
 
 ## Codebook
-The codebook file contains a detailed description of the variables in the data set and can be found in Code_Book.Rmd and CodeBook.pdf
+The codebook file contains a detailed description of the variables in the data set and can be found in CodeBook.md (as well as CodeBook.Rmd and CodeBook.pdf)
 
 
 ## Code to make a Tidy Data Set:
